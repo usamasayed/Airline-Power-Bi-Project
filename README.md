@@ -51,5 +51,5 @@ The following DAX measures were created for analysis:
            DelayedFlights[ArrDelay] = 0 && DelayedFlights[Cancelled] = 0 && DelayedFlights[Diverted] = 0
        )
    )
-
+![Alt Text](https://github.com/usamasayed/Airline-Power-Bi-Project/blob/main/Screenshots/WhatsApp%20Image%202025-02-06%20at%2023.43.02_48992eb2.jpg)
    
