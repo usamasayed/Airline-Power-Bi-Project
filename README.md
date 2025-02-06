@@ -53,3 +53,4 @@ The following DAX measures were created for analysis:
    )
 ![Alt Text](https://github.com/usamasayed/Airline-Power-Bi-Project/blob/main/Screenshots/WhatsApp%20Image%202025-02-06%20at%2023.43.02_48992eb2.jpg)
    
+![WhatsApp Image 2025-02-06 at 23 43 25_3c19e30b](https://github.com/user-attachments/assets/fd3600ca-c183-4f1e-a6fc-db57048c7aa6)
